@@ -1,4 +1,4 @@
 # TeklsDevelopmentLearn
  Tekla  development learning record
 
-泰克拉二次学习开发记录
+Tekla二次开发学习记录
